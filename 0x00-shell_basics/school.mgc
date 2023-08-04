@@ -1,2 +1,3 @@
+#!/bin/bash
 0 string SCHOOL School_data_type_file
-!:mime text/SCHOOL
+!:mime School
