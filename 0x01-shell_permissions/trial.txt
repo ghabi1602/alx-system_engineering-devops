@@ -1,0 +1,11 @@
+ls -l
+df
+df
+df
+sd
+fg
+sd
+fg
+ASF
+WER
+WER
