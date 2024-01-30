@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# display a text combined with sleep
+
+while [ 1 ]
+do
+	echo "To infinty and beyond"
+	sleep 2
+done
