@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 #a script that displays its own pid
 
-echo "$(pidof 0-what-is-my-pid)"
+sleep 5 &
+echo "$!"
