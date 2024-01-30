@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# a script that terminates a running process
+
+pid=$(pidof -s 4-to_infinity_and_beyond)
+kill $pid
