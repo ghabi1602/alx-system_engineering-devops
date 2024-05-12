@@ -13,5 +13,6 @@ Timeline:
 13:30 PM - The issue was resolved, and users were able to access the checkout page again.
 
 Cause and Resolution:
+
 The cause of the issue was a bug in the website's payment gateway integration code. More specifically the bug caused the checkout page to crash when users attempted to use a certain type of credit cards.
 To resolve the issue, the engineering team worked with the payment gateway provider to identify and fix the bug in the integration code. The fix involved updating the code to properly handle the problematic credit card type and ensuring that future updates would not introduce similar bugs.
